@@ -135,9 +135,9 @@ const Footer = () => {
               © 2024 Sankar. All rights reserved.
             </p>
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
-              <span>Made with</span>
+              <span>Made by</span>
               <Heart size={16} className="text-red-500 animate-pulse" />
-              <span>and cutting-edge tech</span>
+              <span>sankar</span>
             </div>
           </div>
         </div>
