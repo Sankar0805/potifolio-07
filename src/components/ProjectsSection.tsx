@@ -12,7 +12,7 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Platform",
+      title: "E-commerce",
       description: "Modern e-commerce solution with 3D product visualization and smooth animations.",
       image: "/lovable-uploads/6c989b07-d56b-4873-b5ce-e3e5d7dc7183.png",
       tech: ["React", "Three.js", "GSAP", "Node.js"],
@@ -20,7 +20,7 @@ const ProjectsSection = () => {
     },
     {
       id: 2,
-      title: "Developer Tools Suite",
+      title: "Interactive Web Page",
       description: "Comprehensive developer tools with interactive documentation and real-time collaboration.",
       image: "/lovable-uploads/4aac1efd-f6c8-4c9d-a4ae-a51d4ed4c772.png",
       tech: ["Next.js", "TypeScript", "WebRTC", "Prisma"],
@@ -28,35 +28,11 @@ const ProjectsSection = () => {
     },
     {
       id: 3,
-      title: "AI Dashboard",
+      title: "Farmmedic",
       description: "Intelligent analytics dashboard with machine learning insights and predictive modeling.",
       image: "/lovable-uploads/6c989b07-d56b-4873-b5ce-e3e5d7dc7183.png",
       tech: ["Vue.js", "Python", "TensorFlow", "D3.js"],
       color: "neon-orange"
-    },
-    {
-      id: 4,
-      title: "Social Media App",
-      description: "Real-time social platform with advanced messaging and content sharing features.",
-      image: "/lovable-uploads/4aac1efd-f6c8-4c9d-a4ae-a51d4ed4c772.png",
-      tech: ["React Native", "Firebase", "WebSocket", "Redis"],
-      color: "neon-pink"
-    },
-    {
-      id: 5,
-      title: "Blockchain Wallet",
-      description: "Secure cryptocurrency wallet with DeFi integration and portfolio tracking.",
-      image: "/lovable-uploads/6c989b07-d56b-4873-b5ce-e3e5d7dc7183.png",
-      tech: ["Web3.js", "Solidity", "React", "MetaMask"],
-      color: "neon-cyan"
-    },
-    {
-      id: 6,
-      title: "VR Experience",
-      description: "Immersive virtual reality application for architectural visualization and training.",
-      image: "/lovable-uploads/4aac1efd-f6c8-4c9d-a4ae-a51d4ed4c772.png",
-      tech: ["A-Frame", "WebXR", "Blender", "Three.js"],
-      color: "neon-purple"
     }
   ];
 
