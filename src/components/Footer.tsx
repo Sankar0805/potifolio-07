@@ -55,8 +55,8 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: GithubLogo, href: '#', label: 'GitHub' },
-    { icon: LinkedinLogo, href: '#', label: 'LinkedIn' },
-    { icon: EnvelopeSimple, href: '#', label: 'Email' }
+    { icon: LinkedinLogo, href: 'https://www.linkedin.com/in/dupana-sai-sankar-reddy-29b32a368/', label: 'LinkedIn' },
+    { icon: EnvelopeSimple, href: 'mailto:roalityzoro@gmail.com', label: 'Email' }
   ];
 
   return (
@@ -123,7 +123,7 @@ const Footer = () => {
               ))}
             </div>
             <p className="text-sm text-muted-foreground">
-              sankar@example.com
+              roalityzoro@gmail.com
             </p>
           </div>
         </div>
