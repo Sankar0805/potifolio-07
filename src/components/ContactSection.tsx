@@ -173,7 +173,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="text-foreground font-medium">Email</p>
-                  <p className="text-muted-foreground">sankar@example.com</p>
+                  <p className="text-muted-foreground">roalityzoro@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -194,7 +194,7 @@ const ContactSection = () => {
                   />
                 </a>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/dupana-sai-sankar-reddy-29b32a368/"
                   className="p-4 glass rounded-xl border-glass-border hover:border-accent hover:shadow-glow-soft transition-all duration-300 group"
                 >
                   <LinkedinLogo 
